@@ -1,0 +1,42 @@
+/********** Bonus tablet **********/
+
+/*Lezioni*/
+
+@media  screen and (min-width:820px) and (max-width:1180px) {
+    #lezioni {
+        background-color: #f2f2cd ;
+    }
+    #lezioni .row .left, #lezioni .row .right{
+        width: 100%;
+    }
+    #lezioni .row {
+        margin: 0;
+        width: 100%;
+    }
+} 
+
+/* Steps */
+
+@media screen and (min-width:820px) and (max-width:1180px) {
+    #steps{
+        background-color: #ffffff;
+    }
+    #steps .row .left, #steps .row .central, #steps .row .right{
+        
+        width: 100%;
+    }
+    #steps .row{
+        margin: 0;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:820px) and (max-width:1180px) {
+    #why {
+        background-color: #f2f2cd;
+    }
+    #why .row {
+        margin: 0;
+        width: 100%;
+    }
+}
