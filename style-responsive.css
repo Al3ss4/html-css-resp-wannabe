@@ -19,6 +19,9 @@
 /* Steps */
 
 @media screen and (max-width:420px) {
+    #steps{
+        background-color: #ffffff;
+    }
     #steps .row .left, #steps .row .central, #steps .row .right{
         float: none;
         width: 100%;
@@ -30,6 +33,12 @@
 }
 
 @media screen and (max-width:420px) {
-    
+    #why {
+        background-color: #f2f2cd;
+    }
+    #why .row {
+        margin: 0;
+        width: 100%;
+    }
 }
 
