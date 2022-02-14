@@ -15,3 +15,21 @@
         width: 100%;
     }
 } 
+
+/* Steps */
+
+@media screen and (max-width:420px) {
+    #steps .row .left, #steps .row .central, #steps .row .right{
+        float: none;
+        width: 100%;
+    }
+    #steps .row{
+        margin: 0;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:420px) {
+    
+}
+
