@@ -1,0 +1,17 @@
+/********** Desktop First **********/
+
+/*Lezioni*/
+
+@media  screen and (max-width:420px) {
+    #lezioni {
+        background-color: #f2f2cd ;
+    }
+    #lezioni .row .left, #lezioni .row .right{
+        float: none;
+        width: 100%;
+    }
+    #lezioni .row {
+        margin: 0;
+        width: 100%;
+    }
+} 
